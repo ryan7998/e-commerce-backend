@@ -34,3 +34,6 @@ THEN he/she will be able to successfully create, update, and delete data in the 
 
 ## TECHNICAL DESCRIPTION: 
 MySQL2, Sequelize, dotenv and Express.js packages are used.
+
+## WALKTHROUGH VIDEO:
+https://drive.google.com/file/d/1kbh14tsrLiadLQxzQBAxbmSIZCXxWgzP/view
